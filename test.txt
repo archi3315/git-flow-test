@@ -2,3 +2,4 @@ Hola mundo
 Hola mundo 2
 SSMS-TEST feature
 last-minute change for the release
+hotfix for the release
